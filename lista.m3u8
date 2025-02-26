@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkLTAyQ0leUi-6XIEZxmo1PD1hdRUk6Bx7w&s" group-title="Cultura Brasileira",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+
+#EXTINF:-1 tvg-id="poop tv" tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-142x108.png" group-title="YTPBR",poop tv
+https://stream.ichibantv.com:3522/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Pop TV" tvg-logo="https://pop.tv.br/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-pop.c0218fd9.png&w=96&q=75" group-title="Variedades",Pop TV
+https://rtisoluctions.com.br/hls/test_src.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://pt.wikipedia.org/wiki/Rede_Brasil_de_Televis%C3%A3o#/media/Ficheiro:RBTV23.png" group-title="Variedades",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1970103246.m3u8
+## Fim ###
