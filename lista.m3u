@@ -11,4 +11,7 @@ https://rtisoluctions.com.br/hls/test_src.m3u8
 
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://pt.wikipedia.org/wiki/Rede_Brasil_de_Televis%C3%A3o#/media/Ficheiro:RBTV23.png" group-title="Variedades",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1970103246.m3u8
+
+#EXTINF:-1 tvg-id="Radio Salsicha" tvg-logo="" group-title="Variedades",Radio Salsicha
+https://stream-174.zeno.fm/ybiv6yvc5mbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Yml2Nnl2YzVtYnZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJaeDVSUTJ3VEoybHRiM014Ujl3eUEiLCJpYXQiOjE3NDY3NjI0NDgsImV4cCI6MTc0Njc2MjUwOH0._idAIX74pZRJz-h37PrFPZ7ekswM639ne7qC0fQTJ00
 ## Fim ###
